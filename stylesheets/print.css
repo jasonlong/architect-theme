@@ -186,12 +186,14 @@ blockquote {
 }
 
 ul li {
-  list-style: disc inside;
+  list-style-position: inside;
+  list-style: disc;
   padding-left: 20px;
 }
 
 ol li {
-  list-style: decimal inside;
+  list-style-position: inside;
+  list-style: decimal;
   padding-left: 3px;
 }
 

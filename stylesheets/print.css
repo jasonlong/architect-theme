@@ -120,6 +120,18 @@ td {
   font-weight: 300;
 }
 
+td[align="left"] {
+  text-align: left;
+}
+
+td[align="right"] {
+  text-align: right;
+}
+
+td[align="justify"] {
+  text-align: justify;
+}
+
 form {
   padding: 20px;
   background: #f2f2f2;
